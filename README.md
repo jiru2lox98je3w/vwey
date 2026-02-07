@@ -5,6 +5,7 @@
 <summary><b>Log otomatis (klik untuk buka)</b></summary>
 
 <!-- CI-LOG-START -->
+0900 2
 0900 1
 0800 2
 0800 1
