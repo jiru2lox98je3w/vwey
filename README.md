@@ -5,6 +5,7 @@
 <summary><b>Log otomatis (klik untuk buka)</b></summary>
 
 <!-- CI-LOG-START -->
+1500 2
 1500 1
 1400 2
 1400 1
